@@ -12,4 +12,4 @@ This contains the coursework for IST 718- Big Data Analytics at Syracuse Univers
 
 Technologies: Apache Spark on Hadoop HDFS, Python, SparkML, Spark SQL
 
-Concepts: Linear algebra, calculus, probability and statistics, programming, 3 V's of big data, predictive modeling, MapReduce
+Concepts: Linear algebra, calculus, probability and statistics, programming, predictive modeling, MapReduce, PCA
